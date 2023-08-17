@@ -777,7 +777,7 @@ footer .copyright{
         height: 296px;
         text-align: center;
         position: absolute;
-        right: 3%;
+        right: 2%;
     }
 
     #hero h4 {
@@ -856,7 +856,7 @@ footer .copyright{
 
     #newsletter {
         padding: 40px 20px;
-        height: 40vh;
+        height: 45vh;
     }
 
     #newsletter .form {
